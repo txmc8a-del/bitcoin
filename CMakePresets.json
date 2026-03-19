@@ -1,4 +1,52 @@
-import pandas as pd
+#!/bin/bash
+
+# =================================================================
+# PROJECT: April 2026 FBA Registry & Agentic Payments
+# TARGET: 248 N Cragmont Ave, San Jose, CA 95127 (Site 100)
+# COMPLIANCE: RTVU1914 / VUW1913 | REGION: 211
+# =================================================================
+
+# 1. SET VARIABLES & DIRECTORIES
+REGISTRY_ROOT="$HOME/Master_Registry/2026/April"
+PAYMENTS_DIR="$REGISTRY_ROOT/Agentic_Payments"
+AUDIT_LOG="$REGISTRY_ROOT/Audit_RTVU1914_VUW1913.log"
+TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+
+mkdir -p "$PAYMENTS_DIR/Receipts"
+mkdir -p "$REGISTRY_ROOT/FBA_Prep_Labels"
+
+# 2. PRIVACY SWEEP (Protocol 6-STAGE FIREWALL)
+echo "[$TIMESTAMP] Initiating Privacy Sweep..."
+# Sanitize temporary buffers and indexedDB references
+rm -rf ~/.cache/bestbuy_meta*
+rm -rf ~/.config/termux/temp_cart*
+echo "SUCCESS: user_uin and cart metadata purged."
+
+# 3. INITIALIZE APRIL LEDGER
+cat <<EOF > "$REGISTRY_ROOT/Manifest_April_Q2.txt"
+# ==========================================
+# APRIL 2026 FBA ONBOARDING MANIFEST
+# ==========================================
+PRIMARY_NODE: Site 100 (Pillar P-348)
+DELIVERY_ADDR: 248 N Cragmont Ave, San Jose, CA 95127
+REIMBURSEMENT: jmarrujo1991@gmail.com
+COMPLIANCE_EMAIL: txmc8a@outlook.com
+
+# ACTIVE SKUs (TC-9910 / TC-7720)
+# [Add SKU Entry Here]
+EOF
+
+# 4. GENERATE IRC QUICK-REF SYNC
+cat <<EOF > "$HOME/IRC_QuickRef_April.txt"
+SITE_ID: 100 | REGION: 211
+PILLAR: P-348 (95127)
+CONTRACTS: RTVU1914, VUW1913
+FNSKU_MANDATE: TRUE (Post-March 31 Rule)
+EOF
+
+echo "[$TIMESTAMP] April Registry Initialized at $REGISTRY_ROOT"
+echo "Check ~/IRC_QuickRef_April.txt on your Moto device for floor navigation."
+ pandas as pd
 import os
 from datetime import datetime
 
