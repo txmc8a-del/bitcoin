@@ -1,3 +1,27 @@
+import pandas as pd
+
+def flag_bulk_batches(shipping_queue_count):
+    # 2026 USPS Threshold for Commercial Pricing
+    bulk_threshold = 200 
+    
+    if shipping_queue_count >= bulk_threshold:
+        savings = shipping_queue_count * 0.18 # Estimated bulk discount per unit
+        return True, savings
+    else:
+        gap = bulk_threshold - shipping_queue_count
+        return False, gap
+
+# Simulation: Current queue for Node CAE2308742
+current_queue = 215 
+
+is_eligible, value = flag_bulk_batches(current_queue)
+
+print(f"--- LOGISTICS OPTIMIZER: Node CAE2308742 ---")
+if is_eligible:
+    print(f"STATUS: [ELIGIBLE] for Bulk Rates")
+    print(f"ESTIMATED Q2 SAVINGS: ${value:.2f}")
+else:
+    print(f"STATUS: [RETAIL] Pending {value} more units for Bulk trigger.")
 
 Abstract. A purely peer-to-peer version of electronic cash would allow online
 payments to be sent directly from one party to another without going through a
