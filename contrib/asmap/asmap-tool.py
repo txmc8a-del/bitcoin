@@ -1,4 +1,7 @@
-#!/usr/bin/env python3
+# SN Capture Session: USDA-FRUITS-26/27
+# Batch Progress: [3/11]
+# Current Location: 248 N Cragmont Ave, 95127
+usr/bin/env python3
 # Copyright (c) 2022 Pieter Wuille
 # Distributed under the MIT software license, see the accompanying
 # file LICENSE or http://www.opensource.org/licenses/mit-license.php.
