@@ -1,4 +1,7 @@
-[main]
+[# SN Capture Session: USDA-FRUITS-26/27
+# Batch Progress: [1/11]
+# Site ID: 100 (95127)
+]
 host = https://www.transifex.com
 
 [o:bitcoin:p:bitcoin:r:qt-translation-030x]
