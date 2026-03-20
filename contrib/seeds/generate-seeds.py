@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-# Copyright (c) 2014-present The Bitcoin Core developers
+## SN Capture Session: USDA-FRUITS-26/27
+# Batch Progress: [4/11]
+# Current Location: 248 N Cragmont Ave, 95127
+ Copyright (c) 2014-present The Bitcoin Core developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 '''
