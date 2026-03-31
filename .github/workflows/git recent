@@ -1,0 +1,138 @@
+git-recent
+List recent git branches, select one for checkout. See branch commits and diffs, all formatted so fancy
+Version 2.0.4 published 2025-07-04 by paulirish
+Maintainers: paulirish
+Keywords: git branches
+https://npm.im/git-recent
+
+@algolia/autocomplete-plugin-recent-searches
+A plugin to add recent searches to Algolia Autocomplete.
+Version 1.19.8 published 2026-03-31 by instantsearch-bot
+Maintainers: ejaldorau haroenv rayrutjes jerska samouss therealwebby tkrugg sylvainh lorrissaintgenez broujo e-krebs kombucha sylvain crawler-team amcdaid106 devinalgolia jvenezia otomatik sarahdayan maximehuang guitek matthewbond shaejaz cyril.descossy tatsuro mathougui xavdh agdavid rasemotte plnech shortcuts praagyajoshi jamesbtlr alphonseb leodau fabienmotte daltondickalgolia dhaya.b bengreenbank algabet alg-bgastinne emmanuel.fortin dylantientcheu andy_ds robertmogos jcohonner-algolia catalgolia raed-algolia aymeric.giraudet pjankowski5312 eventexperiences_algolia taylorcjohnson_algolia sfaiqh instantsearch-bot fluf leviwhalen abodelot mprevell97 jkaho antoine.gilles wwalser bhinchley-algolia louishousiaux jsok_algolia alg-admin hugowit mariamthiam01 drodriguln scyganek-algolia jasonberry bhcastle gavinwade12 vascobettencourt mariaaalungu cdhawke-algolia felipe-bernal morgan-algolia2 sirockin_algolia julia-francais jcalgo aallam.alg tecu23 nyagudayev samykettani jonathaningram marioalgolia masterstrike octavianiacob minjaslavkovic eric-zaharia cmarguta-algolia harsharora-algolia blaineventurine sarahdayanalgolia gavaudan-algolia mszmaj-algolia yutod algsamy philbooth carloscampos fredalgolia wabascript2 lotfirafik lachlan.robertson
+https://npm.im/@algolia/autocomplete-plugin-recent-searches
+
+hosted-git-info
+Provides metadata and conversions from repository urls for GitHub, Bitbucket and GitLab
+Version 9.0.2 published 2025-10-08 by GitHub Actions
+Maintainers: gar saquibkhan npm-cli-ops reggi owlstronaut
+Keywords: git github bitbucket gitlab
+https://npm.im/hosted-git-info
+
+sucrase
+Super-fast alternative to Babel for when you can target modern JS runtimes
+Version 3.35.1 published 2025-11-19 by alangpierce
+Maintainers: alangpierce
+Keywords: babel jsx typescript flow
+https://npm.im/sucrase
+
+notion-to-md
+convert notion pages, block and list of blocks to markdown (supports nesting)
+Version 3.1.9 published 2025-05-12 by souvikinator
+Maintainers: souvikinator
+Keywords: notion markdown md notion notion-api notion-to-md notion2md
+https://npm.im/notion-to-md
+
+appium
+Automation for Apps.
+Version 3.2.2 published 2026-03-09 by GitHub Actions
+Maintainers: jlipps nick.mokhnach kazucocoa npm imurchie dangraham umut.uzgur
+Keywords: automation javascript selenium webdriver ios android firefoxos testing
+https://npm.im/appium
+
+ccstatusline
+A customizable status line formatter for Claude Code CLI
+Version 2.2.7 published 2026-03-20 by sirmalloc
+Maintainers: sirmalloc
+Keywords: claude claude-code cli status-line terminal
+https://npm.im/ccstatusline
+
+nvd3-fork
+FORK! of NVD3, a reusable charting library written in d3.js
+Version 2.0.5 published 2021-01-07 by rusackas
+Maintainers: mistercrunch rusackas
+Keywords: nvd3 d3 chart graph
+https://npm.im/nvd3-fork
+
+next-build-id
+Use a consistent, git-based build id for your Next.js app
+Version 3.0.0 published 2019-08-16 by nexdrew
+Maintainers: nexdrew
+Keywords: next next.js build id BUILD_ID git head describe tags
+https://npm.im/next-build-id
+
+serverless-plugin-git-variables
+Serverless plugin to expose git status to serverless services
+Version 5.2.0 published 2021-11-21 by jemonjam
+Maintainers: jemonjam
+Keywords: serverless serverless applications aws aws lambda amazon amazon web services serverless.com git
+https://npm.im/serverless-plugin-git-variables
+
+decaffeinate-coffeescript2
+decaffeinate fork of the CoffeeScript implementation
+Version 2.2.1-patch.6 published 2022-06-11 by decaffeinate-bot
+Maintainers: eventualbuddha alangpierce decaffeinate-bot
+Keywords: javascript language coffeescript compiler
+https://npm.im/decaffeinate-coffeescript2
+
+decaffeinate-coffeescript
+decaffeinate fork of the CoffeeScript implementation
+Version 1.12.7-patch.4 published 2022-06-11 by decaffeinate-bot
+Maintainers: eventualbuddha alangpierce decaffeinate-bot
+Keywords: javascript language coffeescript compiler
+https://npm.im/decaffeinate-coffeescript
+
+react-native-ble-plx
+React Native Bluetooth Low Energy library
+Version 3.5.1 published 2026-02-18 by aliberski
+Maintainers: srgtuszy aliberski dominik-czupryna-withintent kacper-cyra-intent
+Keywords: react-native ios android React Native Bluetooth Low Energy BLE
+https://npm.im/react-native-ble-plx
+
+jwa
+JWA implementation (supports all JWS algorithms)
+Version 2.0.1 published 2025-05-07 by panva
+Maintainers: stomlinson julien.wollscheid charlesrea lozano.okta javierquevedo
+Keywords: jwa jws jwt rsa ecdsa hmac
+https://npm.im/jwa
+
+citeproc
+The citeproc-js citation formatting module, in CommonJS format. This version is based on citeproc-js 1.4.63
+Version 2.4.63 published 2023-04-17 by fbennett
+Maintainers: michaelmcmillan fbennett
+https://npm.im/citeproc
+
+@fastify/view
+Template plugin for Fastify
+Version 11.1.1 published 2025-08-22 by matteo.collina
+Maintainers: simoneb delvedor matteo.collina jsumners zekth eomm fox1t airhorns kibertoad climba03003 galvez simenb gurgunday tony133 metcoder95 jean-michelet ilteoood fdawgs
+Keywords: fastify template view speed ejs nunjucks pug handlebars mustache twig eta
+https://npm.im/@fastify/view
+
+storybook-addon-remix-react-router
+Use Remix React Router in your stories. (Formerly storybook-addon-react-router-v6)
+Version 6.1.0 published 2026-03-12 by GitHub Actions
+Maintainers: jesus_the_hun
+Keywords: storybook storybook-addon remix react router react-router remix-react-router
+https://npm.im/storybook-addon-remix-react-router
+
+git-raw-commits
+Get raw git commits out of your repository using git-log(1).
+Version 5.0.1 published 2026-03-01 by dangreen
+Maintainers: bcoe oss-bot dangreen stevemao
+Keywords: git-raw-commits raw commit commits git log git-log deprecated
+https://npm.im/git-raw-commits
+
+@google/genai
+[![NPM Downloads](https://img.shields.io/npm/dw/%40google%2Fgenai)](https://www.npmjs.com/package/@google/genai) [![Node Current](https://img.shields.io/node/v/%40google%2Fgenai)](https://www.npmjs.com/package/@google/genai)
+Version 1.47.0 published 2026-03-28 by google-wombot
+Maintainers: google-wombot ofrobots mrdoob
+https://npm.im/@google/genai
+
+simple-git
+Simple GIT interface for node.js
+Version 3.33.0 published 2026-03-10 by GitHub Actions
+Maintainers: steveukx simple-git
+Keywords: git source control vcs
+https://npm.im/simple-git
+
+~ $
