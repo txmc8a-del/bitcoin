@@ -1,0 +1,134 @@
+@mastra/dane
+Hey there! I'm Dane, and I'm excited to be your AI assistant and coding companion. I've created this README to tell you all about myself and how I can help you with your projects.
+Version 1.0.1 published 2026-01-20 by GitHub Actions
+Maintainers: smthomas abhiaiyer ifedayo adeleke5140 taofeeq-deru ehindero calcsam rase- wardpeet tylerbarnes nikaiyer
+https://npm.im/@mastra/dane
+
+cypress-cucumber-attach-screenshots-to-failed-steps
+This is a `cypress plugin` that `automatically attaches screenshots to failed cucumber steps` so that they will appear on reports.
+Version 1.0.0 published 2021-07-28 by daneharnett
+Maintainers: daneharnett
+https://npm.im/cypress-cucumber-attach-screenshots-to-failed-steps
+
+initials
+initials for names
+Version 3.1.2 published 2021-12-17 by gr2m
+Maintainers: gr2m boennemann zoepage
+https://npm.im/initials
+
+@pokash/n8n-nodes-azure-servicebus
+Azure Service Bus nodes for n8n with full session support using official @azure/service-bus
+Version 1.7.7 published 2025-11-18 by lgabrysiak
+Maintainers: lgabrysiak
+Keywords: n8n-community-node-package
+https://npm.im/@pokash/n8n-nodes-azure-servicebus
+
+polish-cities
+Zbiór danych o miastach w Polsce w formacie JSON – gotowy do użycia w aplikacjach frontendowych, backendowych lub do analiz.
+Version 2025.0.0 published 2025-12-01 by jarekosm1024
+Maintainers: jarekosm1024
+Keywords: poland cities miasta json dataset openstreetmap teryt terc simc gus geodata
+https://npm.im/polish-cities
+
+node-red-contrib-starlight
+Node-RED node listening on an HTTP endpoint and filtering alarm payloads.
+Version 0.0.2 published 2026-03-17 by szoopa
+Maintainers: szoopa
+Keywords: node-red node-red-contrib starlight alarm nvr cctv
+https://npm.im/node-red-contrib-starlight
+
+@apiverve/danevalidator
+DANE Record Validator validates DANE/TLSA DNS records used for certificate authentication, providing security analysis and best practice recommendations.
+Version 1.1.14 published 2026-02-16 by charifield
+Maintainers: charifield apivervehq
+https://npm.im/@apiverve/danevalidator
+
+mx-connect
+Establish TCP connection to a MX server with MTA-STS and DANE/TLSA support
+Version 1.6.0 published 2026-02-23 by GitHub Actions
+Maintainers: andris
+Keywords: mx smtp mta dane tlsa mta-sts email dns
+https://npm.im/mx-connect
+
+getdns
+getdns bindings for Node.js. getdns is a modern asynchronous DNS API. It implements DNS entry points from a design developed and vetted by application developers, in an API specification.
+Version 4.1.0 published 2021-06-09 by joelpurra
+Maintainers: joelpurra ngoyal gowriv
+Keywords: dns getdns getdnsapi dnssec
+https://npm.im/getdns
+
+node-red-contrib-rejestrator
+Node-RED node listening on an HTTP endpoint and filtering alarm payloads.
+Version 1.0.0 published 2026-03-17 by szoopa
+Maintainers: szoopa
+Keywords: node-red node-red-contrib rejestrator starlight alarm nvr cctv
+https://npm.im/node-red-contrib-rejestrator
+
+effect-orpc
+A type-safe integration between [oRPC](https://orpc.dev/) and [Effect](https://effect.website/), enabling Effect-native procedures with full service injection support, OpenTelemetry tracing support and typesafe Effect errors support.
+Version 0.2.0 published 2026-03-09 by GitHub Actions
+Maintainers: utopy
+Keywords: effect orpc utopy utopyin
+https://npm.im/effect-orpc
+
+@pokash/n8n-nodes-erpxt
+n8n nodes for Comarch ERP XT (Betterfly) integration - invoices, customers, products
+Version 0.5.7 published 2026-03-20 by lgabrysiak
+Maintainers: lgabrysiak
+Keywords: n8n-community-node-package n8n comarch erp erpxt betterfly invoice faktura
+https://npm.im/@pokash/n8n-nodes-erpxt
+
+cms-client-dane
+Visually edit your react components with end-to-end type safe schemas.
+Version 0.0.28 published 2023-02-24 by skyf4ll
+Maintainers: skyf4ll
+Keywords: zod typescript cms headless
+https://npm.im/cms-client-dane
+
+@live-change/vue3-ssr
+Live Change Framework - vue components
+Version 0.9.201 published 2026-03-29 by m8
+Maintainers: m8
+https://npm.im/@live-change/vue3-ssr
+
+@forwardemail/mx-connect
+Establish TCP connection to a MX server with MTA-STS and DANE/TLSA support
+Version 2.4.0 published 2026-03-08 by titanism
+Maintainers: niftylettuce titanism
+Keywords: mx smtp mta dane tlsa mta-sts email dns
+https://npm.im/@forwardemail/mx-connect
+
+@elemental-ui-alpha/avatar-group
+An avatar group displays a number of avatars grouped together in an overlaid stack.
+Version 0.0.2 published 2020-04-24 by dsf-release-bot
+Maintainers: emmatown dcousens
+https://npm.im/@elemental-ui-alpha/avatar-group
+
+hip2-dane
+HIP-0002 Well-Known Wallets
+Version 0.4.2 published 2022-03-17 by lukeburns
+Maintainers: lukeburns
+https://npm.im/hip2-dane
+
+dane-publish-app
+## Accessing Components:
+Version 0.0.45 published 2022-01-27 by trbuhozborac
+Maintainers: trbuhozborac
+Keywords: react card
+https://npm.im/dane-publish-app
+
+node-red-contrib-provision
+Node-RED node for provisioning and fetching alarm status
+Version 1.1.2 published 2024-11-15 by szoopa
+Maintainers: szoopa
+Keywords: node-red provision ampio http request api
+https://npm.im/node-red-contrib-provision
+
+mic-ciudades-dane
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.9.
+Version 0.0.1 published 2021-02-13 by appscommons
+Maintainers: appscommons
+Keywords: microservicios componentes web DANE ciudades Colombia
+https://npm.im/mic-ciudades-dane
+
+~ $ l
