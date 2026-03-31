@@ -1,0 +1,140 @@
+
+@dashevo/x11-hash-js
+x11 javascript hashing algorithm in pure javascript
+Version 1.0.2 published 2018-05-27 by alex-werner
+Maintainers: shumkov alex-werner nmarley cofresi evodeploy jawid-h
+Keywords: x11 keccak groestl echo skein blake bmw hash cubehash dash jh luffa shavite simd skein
+https://npm.im/@dashevo/x11-hash-js
+
+ssh2
+SSH2 client and server modules written in pure JavaScript for node.js
+Version 1.17.0 published 2025-08-20 by mscdex
+Maintainers: mscdex
+Keywords: ssh ssh2 sftp secure shell exec remote client
+https://npm.im/ssh2
+
+x11
+A pure node.js JavaScript client implementing X Window (X11) protocol and extensions.
+Version 2.3.0 published 2017-08-27 by sidorares
+Maintainers: sgimeno sidorares polpo
+Keywords: X Window ui gui widgets desktop XWindow X
+https://npm.im/x11
+
+ua-is-frozen
+A freeze-test for your user-agent string
+Version 0.1.2 published 2024-11-07 by faisalman
+Maintainers: faisalman
+Keywords: ua-parser-js ua-is-frozen user-agent frozen reduced
+https://npm.im/ua-is-frozen
+
+is-wayland
+Check if the current Linux session is using Wayland
+Version 0.1.0 published 2025-09-23 by sindresorhus
+Maintainers: sindresorhus
+Keywords: wayland linux display server x11 xorg session desktop environment detect check is
+https://npm.im/is-wayland
+
+@elastic/makelogs
+Simple log generator for testing kibana
+Version 6.1.1 published 2022-10-28 by spalger
+Maintainers: gtback ikakavas
+Keywords: elasticsearch kibana logstash test-data http traffic
+https://npm.im/@elastic/makelogs
+
+keyspy
+A cross-platform global keyboard and mouse listener for Node.js
+Version 1.1.1 published 2025-06-16 by teomyth
+Maintainers: teomyth
+Keywords: cross-platform global hook key keyboard listener monitor mouse node spy macos function-keys
+https://npm.im/keyspy
+
+browser-autopilot
+Autonomous browser agent — LLM-driven CDP automation with X11 stealth fallback, CAPTCHA solving, and extensible skills
+Version 0.5.7 published 2026-03-08 by eigengajesh
+Maintainers: eigengajesh
+Keywords: browser automation agent cdp chrome llm ai web-agent browser-use autonomous scraping captcha
+https://npm.im/browser-autopilot
+
+wasm-x11-hash
+WASM JS binding for X11 hashing algorithm
+Version 0.0.2 published 2022-06-27 by shumkov
+Maintainers: shumkov
+Keywords: x11 dash hash 256 crypto cryptocurrency
+https://npm.im/wasm-x11-hash
+
+esutils
+utility box for ECMAScript language tools
+Version 2.0.3 published 2019-07-31 by michaelficarra
+Maintainers: constellation michaelficarra
+https://npm.im/esutils
+
+color-namer
+Give me a color and I'll name it.
+Version 1.4.0 published 2019-08-25 by zeke
+Maintainers: zeke
+Keywords: color colors names rgb hsl hsv lab search tagging image design
+https://npm.im/color-namer
+
+electron-overlay-window
+[![](https://img.shields.io/npm/v/electron-overlay-window/latest?color=CC3534&label=electron-overlay-window&logo=npm&labelColor=212121)](https://www.npmjs.com/package/electron-overlay-window)
+Version 4.0.2 published 2025-12-20 by snosme
+Maintainers: snosme
+Keywords: window overlay electron event watch foreground
+https://npm.im/electron-overlay-window
+
+x11-hash-js
+x11 javascript hashing algorithm in pure javascript
+Version 1.0.1 published 2018-05-24 by alex-werner
+Maintainers: alex-werner nmarley
+Keywords: x11 keccak groestl echo skein blake bmw hash cubehash dash jh luffa shavite simd skein
+https://npm.im/x11-hash-js
+
+nlf
+Find licenses for a node application and its node_module dependencies
+Version 2.1.1 published 2019-03-12 by iandotkelly
+Maintainers: iandotkelly
+Keywords: license licence checker finder audit legal dependency cli
+https://npm.im/nlf
+
+libtess
+Polygon tesselation library, ported from SGI's GLU implementation.
+Version 1.2.2 published 2015-12-19 by brendankenny
+Maintainers: skrat brendankenny
+Keywords: polygon tesselation tessellation triangulation GLUtesselator
+https://npm.im/libtess
+
+@pulsar-edit/keyboard-layout
+Read and observe the current keyboard layout on OS X.
+Version 3.0.5 published 2026-03-07 by confused-techie
+Maintainers: kaosine autumnblaze confused-techie
+https://npm.im/@pulsar-edit/keyboard-layout
+
+@kubevirt-ui-ext/vnc-keymaps
+Keymaps for VNC
+Version 1.0.5 published 2025-12-17 by GitHub Actions
+Maintainers: udragon avivtur rszwajko galkremer adamviktora
+Keywords: QEMUExtendedKeyEvent VNC Qemu scancode keysym keystroke
+https://npm.im/@kubevirt-ui-ext/vnc-keymaps
+
+@bobsled/ssh2
+SSH2 client and server modules written in pure JavaScript for node.js
+Version 1.16.3 published 2025-01-22 by lucas-bobsled
+Maintainers: lucas-bobsled adamveld12 kamilbobsled jgrobbel
+Keywords: ssh ssh2 sftp secure shell exec remote client
+https://npm.im/@bobsled/ssh2
+
+colorsea
+A color tool library written in Typescript, you can use it to convert color spaces, and operate on colors like LESS/SASS ( darken/lighten, saturate/desaturate, spin, mix), and color difference query. 颜色工具库，支持颜色空间的转换、各种颜色操作、多种色差查询, 支持中国色、日本色的查询
+Version 1.2.2 published 2024-03-02 by waterbeside
+Maintainers: waterbeside
+Keywords: color convert diff rgb deltaE hue lightness saturation hsl color-diff color-space color-names X11 CIE CMC 色差 中国传统色 nippon colors
+https://npm.im/colorsea
+
+attack-shark-x11-driver
+A TypeScript driver for the Attack Shark X11 gaming mouse, supporting Linux and other platforms via Node.js/Bun and USB HID.
+Version 1.0.1 published 2026-03-23 by harukadev
+Maintainers: harukadev
+Keywords: attack-shark x11 mouse driver linux usb hid typescript
+https://npm.im/attack-shark-x11-driver
+
+~ $
