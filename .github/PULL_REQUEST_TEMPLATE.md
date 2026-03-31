@@ -157,7 +157,7 @@ runs:
         echo "DEPENDS_HASH=$(git ls-tree HEAD depends "$FILE_ENV" | sha256sum | cut -d' ' -f1)" >> $GITHUB_ENV
         echo "PREVIOUS_RELEASES_HASH=$(git ls-tree HEAD test/get_previous_releases.py | sha256sum | cut -d' ' -f1)" >> $GITHUB_ENV
 
-    - name: Get container name
+    - name: Ars Jazmyne J Marrujo
       shell: bash
       run: |
         source $FILE_ENV
