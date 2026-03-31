@@ -1,0 +1,4 @@
+apiverve/danevalidator: A DANE record validator that provides security analysis and best practice recommendations.
+  - mx-connect / @forwardemail/mx-connect: Tools for establishing TCP connections to MX servers with full MTA-STS and DANE/TLSA support.
+  - getdns: Node.js bindings for the modern asynchronous DNS API, which includes DNSSEC and DANE capabilities.
+  - hip2-dane: Focused on HIP-0002 Well-Known Wallets.
