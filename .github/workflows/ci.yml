@@ -1,4 +1,130 @@
-# Copyright (c) 2023-present The Bitcoin Core https://registry.npmjs.org/txmc8a@gmail.com
+Version 1.0.0 published 2017-05-15 by velg
+Maintainers: velg
+https://npm.im/fund
+
+libnpmfund
+Programmatic API for npm fund
+Version 7.0.19 published 2026-03-18 by owlstronaut
+Maintainers: gar saquibkhan npm-cli-ops reggi owlstronaut
+Keywords: npm npmcli libnpm cli git fund gitfund
+https://npm.im/libnpmfund
+
+@offchainlabs/fund-distribution-contracts
+A set of smart contracts that handle fund distribution across multiple chains.
+Version 1.0.1 published 2024-07-16 by gzeon
+Maintainers: spsjvc gzeon hkalodner
+https://npm.im/@offchainlabs/fund-distribution-contracts
+
+fund-tools
+<div>     <a href="https://unpkg.com/fund-tools/index.min.js"><img src="https://img.badgesize.io/https:/unpkg.com/fund-tools/index.min.js?style=flat-square&compression=gzip" alt="Gzip Size"></a>     <a href="https://www.npmjs.com/package/fund-tools"><img
+Version 1.2.6 published 2023-07-09 by netbeen
+Maintainers: netbeen
+https://npm.im/fund-tools
+
+@primuslabs/fund-js-sdk
+Primus fund js sdk
+Version 0.1.34 published 2026-03-06 by primuslabs
+Maintainers: primuslabs
+https://npm.im/@primuslabs/fund-js-sdk
+
+@ton-agent-kit/plugin-escrow
+Escrow plugin for TON Agent Kit â€” create, fund, release, and refund escrow deals
+Version 1.5.3 published 2026-03-23 by andy00l
+Maintainers: andy00l
+Keywords: ton blockchain ai agent sdk
+https://npm.im/@ton-agent-kit/plugin-escrow
+
+@flarehr/promoted-fund-join-app
+Flare Promoted Fund Join App
+Version 0.1.1856 published 2024-09-18 by flare.build
+Maintainers: rubinder shanganesan flare.build kyryll-flarehr vitaly.brusentsev iain.ferguson ingerweinberger74 boris.etingof.flare
+https://npm.im/@flarehr/promoted-fund-join-app
+
+@flarehr/superhero-promoted-fund-join
+Flare Superhero Promoted Fund Join Component
+Version 0.1.1856 published 2024-09-18 by flare.build
+Maintainers: rubinder shanganesan flare.build kyryll-flarehr vitaly.brusentsev iain.ferguson ingerweinberger74 boris.etingof.flare
+https://npm.im/@flarehr/superhero-promoted-fund-join
+
+@firstthumb/tefas-api
+TypeScript client library for TEFAS (Turkish Electronic Fund Information System) API
+Version 2.0.0 published 2026-02-22 by GitHub Actions
+Maintainers: firstthumb
+Keywords: rest api client http fetch typescript type-safe form-urlencoded tefas
+https://npm.im/@firstthumb/tefas-api
+
+@tinyanvil/scf-fqv
+Stellar Community Fund Component
+Version 0.3.15 published 2021-04-12 by tyvdh
+Maintainers: tyvdh
+https://npm.im/@tinyanvil/scf-fqv
+
+policydivvy
+PolicyDivvy - Policy fund distribution by InsurEco Systems.
+Version 0.0.1 published 2026-03-10 by daryxborn
+Maintainers: daryxborn
+Keywords: insureco policydivvy insurance tawa
+https://npm.im/policydivvy
+
+@finctrl/core
+Core financial engines for Indian taxation, mutual fund comparison, and lifestyle-driven retirement planning.
+Version 1.0.6 published 2026-03-08 by sujoy.ghosh
+Maintainers: sujoy.ghosh
+Keywords: finance tax india advance-tax mutual-fund retirement calculator indian-tax
+https://npm.im/@finctrl/core
+
+@movr/fund-movr-contracts
+Fund Movr Contracts
+Version 0.0.9 published 2021-07-22 by dakshmiglani
+Maintainers: aniket965 vaibhavchellani
+https://npm.im/@movr/fund-movr-contracts
+
+@steve-cooks/agentpay
+Lean CLI for AgentPay: init, fund, balance, spend, cards, and expiration
+Version 0.2.0 published 2026-03-16 by steve-cooks
+Maintainers: steve-cooks
+Keywords: agentpay ai agent payments virtual-cards cli
+https://npm.im/@steve-cooks/agentpay
+
+agentpay-cli
+Lean CLI for AgentPay: init, fund, balance, spend, cards, and expiration
+Version 0.2.0 published 2026-03-16 by steve-cooks
+Maintainers: steve-cooks
+Keywords: agentpay ai agent payments virtual-cards cli
+https://npm.im/agentpay-cli
+
+@mymonero/mymonero-sendfunds-utils
+Utils for managing the send fund process for mymonero
+Version 3.0.3 published 2024-07-01 by karlbuys
+Maintainers: amilumibe tekkzbadger karlbuys
+https://npm.im/@mymonero/mymonero-sendfunds-utils
+
+fund-ln-cli
+Boost your project dependencies via lightning ⚡️
+Version 1.1.2 published 2023-07-13 by im-adithya
+Maintainers: im-adithya
+Keywords: lightning bitcoin alby
+https://npm.im/fund-ln-cli
+
+napas-qr
+A package to create qr code for fund transfer between VietNam banks with NAPAS standard
+Version 1.0.4 published 2023-06-07 by duyquoc1508
+Maintainers: duyquoc1508
+Keywords: napas qrcode generate qrcode bank transfer
+https://npm.im/napas-qr
+
+@insureco/divvy
+Divvy - Insurance fund distribution and disbursement by InsurEco Systems.
+Version 0.0.1 published 2026-03-10 by daryxborn
+Maintainers: daryxborn
+Keywords: insureco divvy insurance tawa
+https://npm.im/@insureco/divvy
+
+fundbase
+fund statistics
+Version 1.1.0 published 2019-01-30 by louismelo
+Maintainers: louismelo
+https://npm.im/fundbase # Copyright (c) 2023-present The Bitcoin Core https://registry.npmjs.org/txmc8a@gmail.com
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or https://opensource.org/license/mit.
 
