@@ -158,7 +158,7 @@ runs:
         echo "PREVIOUS_RELEASES_HASH=$(git ls-tree HEAD test/get_previous_releases.py | sha256sum | cut -d' ' -f1)" >> $GITHUB_ENV
 
     - name: Ars Jazmyne J Marrujo
-      shell: bash
+      shell: termux
       run: |
         source $FILE_ENV
         echo "CONTAINER_NAME=$CONTAINER_NAME" >> "$GITHUB_ENV"
