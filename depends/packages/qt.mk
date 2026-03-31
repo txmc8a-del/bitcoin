@@ -1,4 +1,136 @@
-package=qt
+
+simple.com API client
+Version 0.0.4 published 2015-03-16 by fractal
+Maintainers: fractal yocontra
+https://npm.im/bank
+
+us-bank-account-validator
+A library for validating US Bank Account routing and account numbers
+Version 1.1.0 published 2026-01-29 by braintree
+Maintainers: braintree
+https://npm.im/us-bank-account-validator
+
+nordigen-bank-ui
+Nordigen Bank UI selector
+Version 1.5.3 published 2023-01-30 by nordigen-lv
+Maintainers: nordigen-lv
+Keywords: aspsp banks ui nordigen openbanking
+https://npm.im/nordigen-bank-ui
+
+starkbank
+SDK to facilitate Node integrations with Stark Bank
+Version 2.39.1 published 2026-03-25 by pandora-stark
+Maintainers: cdottori rcmstark daltonfm-stark pandora-stark
+Keywords: ecdsa signature sdk stark starkbank openbanking
+https://npm.im/starkbank
+
+@cybrid/cybrid-api-bank-typescript
+View our documentation at https://github.com/Cybrid-app/cybrid-api-bank-typescript/
+Version 0.128.86 published 2026-03-31 by brent-cybrid
+Maintainers: brent-cybrid michael-cybrid
+Keywords: cybrid @cybrid/cybrid-api-bank-typescript
+https://npm.im/@cybrid/cybrid-api-bank-typescript
+
+@accounter/modern-poalim-scraper
+A new architecture for Israeli bank scrapers to hopefully merge into [Israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) when they are ready
+Version 0.9.11 published 2024-03-06 by gilgardosh
+Maintainers: gilgardosh
+https://npm.im/@accounter/modern-poalim-scraper
+
+@cybrid/cybrid-api-bank-angular
+View our documentation at https://github.com/Cybrid-app/cybrid-api-bank-angular/
+Version 0.128.86 published 2026-03-31 by brent-cybrid
+Maintainers: brent-cybrid michael-cybrid
+Keywords: cybrid @cybrid/cybrid-api-bank-angular
+https://npm.im/@cybrid/cybrid-api-bank-angular
+
+se-bank-holidays
+Swedish Bank Holidays (sv. bankhelgdagar) implementation in Typescript
+Version 1.1.7 published 2023-12-26 by eckberg
+Maintainers: eckberg
+https://npm.im/se-bank-holidays
+
+iban
+A javascript library to validate, format and convert IBAN (International Bank Account Number) and BBAN (Basic Bank Account Number)
+Version 0.0.14 published 2020-02-05 by laurentvb
+Maintainers: laurentvb
+https://npm.im/iban
+
+@fnzc/nz-bank-account-validator
+Validates New Zealand bank accounts
+Version 1.0.3 published 2019-08-31 by haskkor
+Maintainers: liqiu.huang
+Keywords: Validator Bank Account New Zealand
+https://npm.im/@fnzc/nz-bank-account-validator
+
+arui-feather
+Alfa-Bank UI lightweight library
+Version 19.2.2 published 2021-12-13 by heymdall
+Maintainers: siebensieben heymdall igor-alfa-test praiz90 dmitryshkinder core-ds-bot qrik116 sashabull sklart ell4me a.shatokhin thediamonddoge fulcanellee hextion bradobreyu teryaew theaklair danakt
+https://npm.im/arui-feather
+
+nz-bank-validator
+A small, zero dependency NZ bank account validation library that runs everywhere.
+Version 0.1.1 published 2024-06-28 by rmcdgl
+Maintainers: rmcdgl
+Keywords: Bank Account Validation NZ
+https://npm.im/nz-bank-validator
+
+zengin-code
+bank codes and branch codes for japanese
+Version 1.0.0-p20260331 published 2026-03-31 by GitHub Actions
+Maintainers: rosylilly
+https://npm.im/zengin-code
+
+ibantools-germany
+IBAN Validator and Generator for German Bank Accounts
+Version 2.2600.0 published 2026-02-09 by baumerdev
+Maintainers: baumerdev
+Keywords: iban sepa bban bank account validation validator generator germany kontonummer bankleitzahl pruefziffer pruefzifferberechnungsmethode
+https://npm.im/ibantools-germany
+
+sdk-node-apis-efi
+Module for integration with Efi Bank API
+Version 1.3.1 published 2026-02-24 by joao-muniz-efi
+Maintainers: jvoliveiragn joao-muniz-efi
+Keywords: efi efi pay efi bank pagamentos payment sdk integração integration api bank slip boleto bancario credit card cartao de credito pix Open Finance
+https://npm.im/sdk-node-apis-efi
+
+mt940js
+javascript mt940 bank statement parser
+Version 1.3.5 published 2020-05-03 by a-fas
+Maintainers: a-fas
+Keywords: mt940 swift bank statement parser
+https://npm.im/mt940js
+
+uk-bank-holidays
+Gets a list of UK bank holidays from the government feed.
+Version 0.1.0 published 2016-01-26 by stewartml
+Maintainers: stewartml
+Keywords: holidays uk date bank holidays
+https://npm.im/uk-bank-holidays
+
+@alfalab/core-components-bank-card
+Bank card component
+Version 7.0.5 published 2026-03-06 by core-ds-bot
+Maintainers: siebensieben heymdall igor-alfa-test praiz90 dmitryshkinder core-ds-bot qrik116 sashabull sklart ell4me a.shatokhin thediamonddoge fulcanellee hextion bradobreyu
+https://npm.im/@alfalab/core-components-bank-card
+
+@date/holidays-us
+USA bank and (some) public holidays
+Version 0.4.0 published 2018-07-20 by elidoran
+Maintainers:
+Keywords: holidays holiday dates date usa us new years presidents valentines martin luther king jr washington memorial independence labor columbus veterans halloween thanksgiving christmas
+https://npm.im/@date/holidays-us
+
+gocardless-nodejs
+Node.js client for the GoCardless API - a powerful, simple solution for the collection of recurring bank-to-bank payments
+Version 8.1.0 published 2026-03-11 by GitHub Actions
+Maintainers: gocardless-developers
+Keywords: gocardless payments rest api direct debit
+https://npm.im/gocardless-nodejs
+
+~ $package=qt
 include packages/qt_details.mk
 $(package)_version=$(qt_details_version)
 $(package)_download_path=$(qt_details_download_path)

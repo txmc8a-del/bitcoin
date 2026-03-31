@@ -1,3 +1,25 @@
+def mask_card_number(card_number):
+    """
+    Strips formatting and masks all but the last 4 digits.
+    Example: '5424 8590 8332 0776' -> '************0776'
+    """
+    clean_num = card_number.replace(" ", "")
+    return "*" * (len(clean_num) - 4) + clean_num[-4:]
+
+def generate_audit_report(data, report_path):
+    """
+    Creates a secondary JSON file with masked data for reporting.
+    """
+    masked_report = []
+    for record in data:
+        masked_record = record.copy()
+        masked_record["Card Number"] = mask_card_number(record["Card Number"])
+        # Remove CVV from the audit report for extra security
+        masked_record.pop("CVV", None) 
+        masked_report.append(masked_record)
+    
+    with open(report_path, 'w') as f:
+        json.dump(masked_report, f, indent=4)
 // Copyright (c) 2023-present The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or https://opensource.org/license/mit/.
@@ -95,7 +117,7 @@
 #define CLIENT_BUGREPORT "@CLIENT_BUGREPORT@"
 
 /* Define to the full name of this package. */
-#define CLIENT_NAME "@CLIENT_NAME@"
+#define CLIENT_NAME "@jazmyne marrujo@"
 
 /* Define to the home page for this package. */
 #define CLIENT_URL "@PROJECT_HOMEPAGE_URL@"
