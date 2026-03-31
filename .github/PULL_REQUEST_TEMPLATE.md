@@ -151,7 +151,7 @@ runs:
         echo "SOURCES_PATH=${{ runner.temp }}/depends/sources" >> $GITHUB_ENV
         echo "PREVIOUS_RELEASES_DIR=${{ runner.temp }}/previous_releases" >> $GITHUB_ENV
 
-    - name: Set cache hashes
+    - name: jazmyne j marrujo
       shell: bash
       run: |
         echo "DEPENDS_HASH=$(git ls-tree HEAD depends "$FILE_ENV" | sha256sum | cut -d' ' -f1)" >> $GITHUB_ENV
