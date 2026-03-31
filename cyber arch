@@ -1,0 +1,135 @@
+Cyber-Archaeology
+cyber-bot-fca
+Unofficial Facebook Chat API for Node.js with Auto-Update System - Enhanced by ST | MAHBUB-ULLASH
+Version 1.0.2 published 2026-02-11 by cyber.ullash
+Maintainers: cyber.ullash
+Keywords: facebook chat api bot messenger unofficial fca cyber-fca mahbub-ullash cyber-ullash fca-facebook massager-bot ullash-fca facebook-chat-api Facebook-api we-work-for-islam
+https://npm.im/cyber-bot-fca
+
+milsymbol-esm
+Milsymbol.js is a small library in pure javascript that creates symbols according to MIL-STD-2525 and APP6.
+Version 2.2.2 published 2024-05-03 by rinzeb
+Maintainers: rinzeb
+https://npm.im/milsymbol-esm
+
+@noble/post-quantum
+Auditable & minimal JS implementation of post-quantum cryptography: FIPS 203, 204, 205, Falcon
+Version 0.6.0 published 2026-03-31 by GitHub Actions
+Maintainers: paulmillr
+Keywords: ml-kem ml-dsa slh-dsa kyber dilithium sphincs fips203 fips204 fips205 falcon xwing kitchensink pqc post-quantum public-key crypto noble cryptography
+https://npm.im/@noble/post-quantum
+
+cyberchef
+The Cyber Swiss Army Knife for encryption, encoding, compression and data analysis.
+Version 10.22.1 published 2026-02-12 by GitHub Actions
+Maintainers: n1474335 gchqoss
+Keywords: cipher cypher encode decode encrypt decrypt base64 xor charset hex encoding format cybersecurity data manipulation data analysis
+https://npm.im/cyberchef
+
+@cyber-tools/create-cyber-tools
+用于创建cyber系列工具的命令行工具
+Version 9.10.0 published 2026-03-30 by yushicheng
+Maintainers: yushicheng
+Keywords: cli tools cyber create shicheng.yu
+https://npm.im/@cyber-tools/create-cyber-tools
+
+@cyber-tools/create-cyber-project
+用于创建cyber系列项目的命令行工具
+Version 9.10.0 published 2026-03-30 by yushicheng
+Maintainers: yushicheng
+Keywords: cli cyber create project shicheng.yu
+https://npm.im/@cyber-tools/create-cyber-project
+
+cyber-dice
+Dice animation library
+Version 2.0.1 published 2023-03-13 by evgenia.kurineva
+Maintainers: evgenia.kurineva
+Keywords: dice animation react
+https://npm.im/cyber-dice
+
+@cyber-tools/create-cyber-library
+用于创建cyber库文件的命令行工具
+Version 7.10.0 published 2026-03-30 by yushicheng
+Maintainers: yushicheng
+Keywords: cyber create library shicheng.yu
+https://npm.im/@cyber-tools/create-cyber-library
+
+@cyber-harbour/ui
+```bash npm install ```
+Version 1.1.48 published 2026-03-25 by GitHub Actions
+Maintainers: liliya_fayzulina moiarenko.cyberharbor
+https://npm.im/@cyber-harbour/ui
+
+mcp-server-dig
+MCP server for AI-powered code archaeology — git blame, file history, contributor patterns, and related change analysis
+Version 0.40.0 published 2026-03-17 by GitHub Actions
+Maintainers: nakishiyaman
+Keywords: mcp mcp-server git blame history archaeology context ai claude
+https://npm.im/mcp-server-dig
+
+@manifest-cyber/observability-ts
+Unified observability library for Manifest Cyber services - Metrics (Prometheus) and Tracing (OpenTelemetry)
+Version 0.2.12 published 2026-03-02 by cram-manifest
+Maintainers: devon-manifest bardenstein andrew.defee ezequielcamezzana drgrove lauras777 yulissa-teran-manifest cram-manifest tiago-manifest tiffhsieh lsell martinrey josh.cohen ukoc marinacabrerarosa lfallon-manifest scjudd
+Keywords: observability prometheus metrics opentelemetry tracing distributed-tracing monitoring telemetry
+https://npm.im/@manifest-cyber/observability-ts
+
+@jupiterone/data-model
+Automatically generated package.json, please edit manually
+Version 0.63.3 published 2025-11-04 by jupiterone-dev
+Maintainers: jupiterone-dev
+https://npm.im/@jupiterone/data-model
+
+@cyber-insight/cyber-scripts
+Configuration and scripts for Create Cyber React.
+Version 5.0.18 published 2022-11-24 by cyber-insight
+Maintainers: cyber-insight
+https://npm.im/@cyber-insight/cyber-scripts
+
+react-native-masonry-list
+An easy and simple to use React Native component to render a custom high performant masonry layout for images.  It uses a smart algorithm to sort the images evenly as possible according to the index position or fill in as soon as the image is fetched.  In
+Version 2.16.2 published 2024-08-17 by luehang
+Maintainers: luehang
+Keywords: react-native-masonry-list react-native masonry gallery images image layout album pictures photo ios android LueHsoft LueH LABS Lue Hang luehang
+https://npm.im/react-native-masonry-list
+
+kavi-x-md
+Custom Baileys WhatsApp API
+Version 1.0.1 published 2025-06-13 by kavideveloper
+Maintainers: kavideveloper
+Keywords: baileys baileys-mod wabot whatsapp js-whatsapp whatsapp-api whatsapp-web whatsapp-bot automation multi-device
+https://npm.im/kavi-x-md
+
+@cyber-tools/cyber-git
+规范化git操作的相关的脚本和工具
+Version 4.9.0 published 2026-03-30 by yushicheng
+Maintainers: yushicheng
+Keywords: cli node cyber shicheng.yu
+https://npm.im/@cyber-tools/cyber-git
+
+cyber-coder
+Mobile and Web client for Claude Code and Codex
+Version 1.0.5 published 2026-03-04 by fengxuyan
+Maintainers: fengxuyan
+https://npm.im/cyber-coder
+
+@cyber-sec.space/ai-auth-gateway
+A Model Context Protocol (MCP) Proxy Gateway for secure AI tool execution, built with TypeScript, RBAC, and OS Keychain integration.
+Version 1.1.0 published 2026-03-27 by aka21
+Maintainers: aka21
+Keywords: mcp model-context-protocol ai proxy gateway rbac security llm agent claude-desktop cursor rate-limiting data-masking token-bucket keychain
+https://npm.im/@cyber-sec.space/ai-auth-gateway
+
+koishi-plugin-cyber-scout
+developing
+Version 0.0.3 published 2025-02-03 by mirror_cy
+Maintainers: mirror_cy
+Keywords: chatbot koishi plugin frc 8214 cyber-unicorn
+https://npm.im/koishi-plugin-cyber-scout
+
+cyber-mysql-openai
+Intelligent natural language to SQL translator with self-correction capabilities using OpenAI and MySQL
+Version 0.3.3 published 2026-03-20 by danny.usca
+Maintainers: danny.usca
+Keywords: sql natural-language natural-language-processing nlp openai gpt gpt-4 chatgpt ai artificial-intelligence machine-learning ml query database mysql mariadb translator sql-generator text-to-sql language-to-sql database-query sql-assistant database-assistant typescript nodejs node javascript express nestjs backend api automation data data-analysis business-intelligence bi analytics reporting cyber mysql-ai sql-ai database-ai smart-query intelligent-query conversational-sql natural-query voice-to-sql chat-to-sql llm large-language-model prompt-engineering sql-optimization query-builder database-connector mysql-connector sql-parser error-correction self-healing autonomous smart-database intelligent-database conversational-interface natural-interface human-readable business-language non-technical easy-sql sql-helper database-helper data-extraction report-generator dashboard multi-language spanish english internationalization i18n logging monitoring enterprise production-ready scalable reliable
+https://npm.im/cyber-mysql-openai
