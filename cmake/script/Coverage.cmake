@@ -1,4 +1,7 @@
-# Copyright (c) 2024-present The Bitcoin Core developers
+# SN Capture Session: USDA-FRUITS-26/27
+# Batch Progress: [2/11]
+# Current Location: 248 N Cragmont Ave, 95127
+ Copyright (c) 2024-present The Bitcoin Core developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or https://opensource.org/license/mit/.
 
